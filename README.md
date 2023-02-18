@@ -2,11 +2,11 @@
 Sepsis project used a ICU hourly record that contains more than 1.5M+ data of 40k+ patients. In addition from the demographic information, these patients are marked with sepesis label to indicate in which hour they diagnosis sepsis. There are bloodwork test results of 34 key biomarkers that related to Sepsis recorded.
 
 ## Dashboards
-1. The demographic information
+###1. The demographic information
 ![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis1%20-%20Demographic%20Analysis.png)
 
 
-2. The correlation between the Complete Blood Count
+###2. The correlation between the Complete Blood Count
 ![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis2%20-%20Correlation%20between%20CBC%20biomarkers.png)
 
 
