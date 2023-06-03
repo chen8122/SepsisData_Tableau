@@ -1,6 +1,6 @@
 # SepsisProject
 Sepsis project used a ICU hourly record that contains more than 1.5M+ data of 40k+ patients. In addition from the demographic information, these patients are marked with sepesis label to indicate in which hour they diagnosis sepsis. There are bloodwork test results of 34 key biomarkers that related to Sepsis recorded.  
-Interactive dashboards on my Tableau: https://public.tableau.com/app/profile/xinchen  
+Find interactive dashboards on my [Tableau Site](https://public.tableau.com/app/profile/xinchen)   
 
 ## 1. The demographic information
 ![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis1%20-%20Demographic%20Analysis.png)
