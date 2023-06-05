@@ -1,5 +1,6 @@
 # SepsisProject
 ## Overview  
+Check the interactive dashboards on my [Tableau Site](https://public.tableau.com/app/profile/xinchen)   
 The Sepsis project involved the analysis of a vast dataset comprising over 1.5 million data points from more than 40,000 ICU patients. This dataset included hourly records, demographic information, and the presence of a sepsis label indicating the hour of sepsis diagnosis. Additionally, the project included the bloodwork test results of 34 key biomarkers associated with sepsis.  
 The project aimed to achieve the following objectives:
 - Demographic and ICU Stay Information: Analyze the demographic information and ICU stay details of the patients to identify potential patterns and calculate key performance indicators(KPIs).  
@@ -9,7 +10,6 @@ The project aimed to achieve the following objectives:
 - Apache II(Acute Physiology and Chronic Health Evaluation II) Score Analysis: Utilize the Apache II scoring system as a tool to assess the severity of illness and accurately predict patient mortality rates.  
   
 By conducting these comprehensive analyses, the project sought to deepen our understanding of sepsis, identify critical factors related to its development and progression, and provide valuable insights that can potentially assist in early detection and treatment strategies.  
-Check the interactive dashboards on my [Tableau Site](https://public.tableau.com/app/profile/xinchen)   
 
 ## Dashboard 1: Demographic and ICU Stay Information  
 **Advanced Features**  
