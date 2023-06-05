@@ -26,7 +26,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 **Advanded Features**  
 - Employed a **statistical tool** to calculate the median and visually represented the **median distribution** through a **histogram chart**.  
 - Utilized **bin** to  segment a specific patient's Hct test results and analyzed the resulting distribution.    
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/d4beb5eb-b182-442a-81f1-fc8ce4febc28)  
 - Demonstrated the correlation between median Hct, Platelets, and WBC through a **pairplot** visualization.      
 ![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis2%20-%20Correlation%20between%20CBC%20biomarkers.png)
 **Insights**:  
