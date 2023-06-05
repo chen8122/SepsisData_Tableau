@@ -13,7 +13,7 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 
 ### Dashboard 1: Demographic and ICU Stay Information  
 **Advanced Features**  
-- Utilized **Calculated Fields**, **Level of Details Expressions(LOD)** "FIXED" to accurately classify patients into sepsis, non-sepsis, and onset sepsis  
+- Utilized **Calculated Fields**, **Level of Details Expressions(LOD)** with the "FIXED" keyword to accurately classify patients into sepsis, non-sepsis, and onset sepsis  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/0bcd7e06-a4ca-49c9-8a4c-9b2e7cf9322c)  
 - Employed **Dual Axes** to create visually appealing **donut chart** and **lollipop chart**  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/66e8477d-6dab-467b-afdc-15b3e69cd80d)  
@@ -47,12 +47,24 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 - A higher proportion of ARDS normal patients tend to have longer lengths of stay in the ICU, whereas a higher proportion of ARDS critical patients exhibit shorter lengths of stay.  
 
 ### Dashboard 3.2: Lung Analysis - Ventilation Usage
-![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis3%20-%20Lung%20Analysis(VentilationUsage).png)
 
 
-### Dashboard 4: SIRS(Systemic Inflammatory Response Syndrome) Analysis
-![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis4-SIRS%20Analysis.png)
 
+### Dashboard 4: SIRS(Systemic Inflammatory Response Syndrome) Analysis  
+**Advanded Features**  
+- Utilized **calculated fields**, **Level of Details Expressions(LOD)** with the "FIXED" keyword to specifically target and identify the SIRS trigger hour for patients.    
+- Implemented **dummy axes** technique and formatted cell colors to effectively highlight abnormal test results, enabling quick identification and analysis.  
+- Added URL actions to implement email alerts, ensuring the prompt notification of responsible hospital staff when patients meet the pre-alert criteria, facilitating timely attention and response.   
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/badbfcc7-cff1-4148-828d-32715470b8cf)  
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/f793236e-bb6d-455d-bb15-89e632eb9e95)  
 
-### Dashboard 5: Acute Physiology and Chronic Health Evaluation II(APACHE II) Score
-![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis5%20-%20ApacheII%20Score%20used%20in%20Mortality%20Rate%20Prediction.png)
+### Dashboard 5: Acute Physiology and Chronic Health Evaluation II(APACHE II) Score  
+**Advanded Features**  
+- Utilized **parameters** to enable real-time access for doctors, allowing them to check the current distribution of APACHE II scores for all patients.  
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/24db0b59-c48a-480c-9d56-d05c56c4ff84)  
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/685d4263-196f-4c38-9ff0-1e0af7e0be17)  
+- Applied a complex calculation methodology to incorporate criteria based on all 13 biomarkers, thereby deriving the APACHE II score. Take `Creatinine` for an example: 
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/003dbd4e-a895-4feb-af6e-a823d1fbbad7)  
+
+![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/27c2f7e6-e230-4d2f-9399-1e6f0137f14a)
+
