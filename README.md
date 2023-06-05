@@ -38,8 +38,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 **Advanded Features**  
 - Implemented **parameters** and **filters** to create interactive **swap sheets** functionality, enabling users to effortlessly select and display their preferred sheet.  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/efc3f595-7775-463b-9516-910c397350b2)  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/91ab0be1-6060-4e1a-9155-17dd917ed7ab)  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/93f63555-02e5-4eca-a162-435af2b6b2b9)  
 - Added **custom icons** to enhance the visual appeal and user experience.  
 - Added **navigation bottom** to hide/show **slider controler**.  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/c4f42327-f9f1-4c59-ad2a-1fbda9e921f8)    
