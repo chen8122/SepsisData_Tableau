@@ -16,7 +16,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 - Utilized **Calculated Fields**, **Level of Details Expressions(LOD)** with the "FIXED" keyword to accurately classify patients into sepsis, non-sepsis, and onset sepsis  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/0bcd7e06-a4ca-49c9-8a4c-9b2e7cf9322c)  
 - Employed **Dual Axes** to create visually appealing **donut chart** and **lollipop chart**  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/66e8477d-6dab-467b-afdc-15b3e69cd80d)  
 **Insights**:  
 - 6% of ICU patients developed Sepsis during their stay.  
 - 51% of ICU patients had a hospital stay duration of 2 days.  
@@ -27,7 +26,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 - Employed a **statistical tool** to calculate the median and visually represented the **median distribution** through a **histogram chart**.  
 - Utilized **bin** to  segment a specific patient's Hct test results and analyzed the resulting distribution.    
 - Demonstrated the correlation between median Hct, Platelets, and WBC through a **pairplot** visualization.      
-![alt text](https://github.com/chen8122/SepsisProject/blob/master/Sepsis2%20-%20Correlation%20between%20CBC%20biomarkers.png)
 **Insights**:  
 - Observed that patients undergo varying combinations of bloodwork tests, indicating that not all patients receive the same set of tests each time.  
 - 95% of ICU patients underwent Hct tests, with one patient having a remarkable 114 instances of Hct tests during the stay.  
@@ -41,7 +39,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 - Added **custom icons** to enhance the visual appeal and user experience.  
 - Added **navigation bottom** to hide/show **slider controler**.  
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/c4f42327-f9f1-4c59-ad2a-1fbda9e921f8)    
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/4a878ec8-aabf-47a8-ac82-0bfcb52b98a0)  
 **Insights**:  
 - By conducting a comparative analysis with PaO2, it has been demonstrated that the PaO2/FiO2 ratio can be served as an economical alternative measurement utilized in the detection of lung injury.  
 - A higher proportion of ARDS normal patients tend to have longer lengths of stay in the ICU, whereas a higher proportion of ARDS critical patients exhibit shorter lengths of stay.  
@@ -50,7 +47,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 **Advanded Features**  
 - Added a **custom navigation bottom** to provide access to additional background information, enabling users to delve deeper into the context and details of the project.  
 - Utilized **boxplots** to visually represent the distribution of patients within each category.  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/72c94383-2017-473a-8fd8-1e8f322c77ae)
 **Insights**:
 - When considering the ARDS criteria, it was observed that as the severity of the condition increased, there was a corresponding increase in the utilization of oxygen flow. However, for all other categories, no such trend was observed.  
 
