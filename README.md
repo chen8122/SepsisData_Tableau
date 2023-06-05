@@ -38,7 +38,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/efc3f595-7775-463b-9516-910c397350b2)  
 - Added **custom icons** to enhance the visual appeal and user experience.  
 - Added **navigation bottom** to hide/show **slider controler**.  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/c4f42327-f9f1-4c59-ad2a-1fbda9e921f8)    
 **Insights**:  
 - By conducting a comparative analysis with PaO2, it has been demonstrated that the PaO2/FiO2 ratio can be served as an economical alternative measurement utilized in the detection of lung injury.  
 - A higher proportion of ARDS normal patients tend to have longer lengths of stay in the ICU, whereas a higher proportion of ARDS critical patients exhibit shorter lengths of stay.  
@@ -64,7 +63,6 @@ Check the interactive dashboards on my [Tableau Site](https://public.tableau.com
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/27c2f7e6-e230-4d2f-9399-1e6f0137f14a)  
 - Incorporated criteria based on all 13 biomarkers, thereby deriving the APACHE II score. Take `Creatinine` for an example:   
 ![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/003dbd4e-a895-4feb-af6e-a823d1fbbad7)  
-![image](https://github.com/chen8122/SepsisData_Tableau/assets/9794705/85815ed8-ec10-4a9e-b4d7-33aee1b4ea16)  
 **Insight**:  
 - As the total Apache II Score and Mortality Rate increase, all biomarker scores exhibit a corresponding increase, indicating a correlation between these factors.  
 - The majority of patients with a high mortality rate are aged 74 and above, as indicated by Age >74 and AgePoint>5.  
